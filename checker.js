@@ -8423,7 +8423,7 @@ var servers = {
                 rel: "殺人鯨"
             }
         ],
-        米特拉: [
+        Reboot: [
             {
                 icon: "Reboot.png",
                 name: "Ch. 1",
@@ -9287,7 +9287,7 @@ var checker = {
                     },
                     {
                         icon: "Reboot.png",
-                        name: "Reboot",
+                        name: "米特拉",
                         english: false,
                         sub: "World"
                     }
