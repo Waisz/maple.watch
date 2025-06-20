@@ -6566,6 +6566,39 @@ var servers = {
             {
                 icon: "Aria.png",
                 english: "Aria",
+                name: "Ch. VIP1",
+                address: "202.80.104.210",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "艾麗亞"
+            },
+            {
+                icon: "Aria.png",
+                english: "Aria",
+                name: "Ch. VIP2",
+                address: "202.80.104.210",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "艾麗亞"
+            },
+            {
+                icon: "Aria.png",
+                english: "Aria",
+                name: "Ch. VIP3",
+                address: "202.80.104.211",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "艾麗亞"
+            },
+            {
+                icon: "Aria.png",
+                english: "Aria",
                 name: "購物商城",
                 address: "202.80.104.40",
                 port: "8686",
