@@ -6589,8 +6589,8 @@ var servers = {
                 icon: "Aria.png",
                 english: "Aria",
                 name: "Ch. VIP3",
-                address: "202.80.104.211",
-                port: "8585",
+                address: "202.80.104.210",
+                port: "8787",
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -6965,6 +6965,39 @@ var servers = {
             {
                 icon: "Freud.png",
                 english: "Freud",
+                name: "Ch. VIP1",
+                address: "202.80.104.213",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "普力特"
+            },
+            {
+                icon: "Freud.png",
+                english: "Freud",
+                name: "Ch. VIP2",
+                address: "202.80.104.213",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "普力特"
+            },
+            {
+                icon: "Freud.png",
+                english: "Freud",
+                name: "Ch. VIP3",
+                address: "202.80.104.213",
+                port: "8787",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "普力特"
+            },
+            {
+                icon: "Freud.png",
+                english: "Freud",
                 name: "購物商城",
                 address: "202.80.104.41",
                 port: "8686",
@@ -7322,6 +7355,39 @@ var servers = {
                 name: "Ch. 30",
                 address: "202.80.104.108",
                 port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "琉德"
+            },
+            {
+                icon: "Ryude.png",
+                english: "Ryude",
+                name: "Ch. VIP1",
+                address: "202.80.104.212",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "琉德"
+            },
+            {
+                icon: "Ryude.png",
+                english: "Ryude",
+                name: "Ch. VIP2",
+                address: "202.80.104.212",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "琉德"
+            },
+            {
+                icon: "Ryude.png",
+                english: "Ryude",
+                name: "Ch. VIP3",
+                address: "202.80.104.212",
+                port: "8787",
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -7695,6 +7761,39 @@ var servers = {
             {
                 icon: "Rhinne.png",
                 english: "Rhinne",
+                name: "Ch. VIP1",
+                address: "202.80.104.218",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "優依娜"
+            },
+            {
+                icon: "Rhinne.png",
+                english: "Rhinne",
+                name: "Ch. VIP2",
+                address: "202.80.104.218",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "優依娜"
+            },
+            {
+                icon: "Rhinne.png",
+                english: "Rhinne",
+                name: "Ch. VIP3",
+                address: "202.80.104.218",
+                port: "8787",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "優依娜"
+            },
+            {
+                icon: "Rhinne.png",
+                english: "Rhinne",
                 name: "購物商城",
                 address: "202.80.104.43",
                 port: "8686",
@@ -8052,6 +8151,39 @@ var servers = {
                 name: "Ch. 30",
                 address: "202.80.104.138",
                 port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "愛麗西亞"
+            },
+            {
+                icon: "Alicia.png",
+                english: "Alicia",
+                name: "Ch. VIP1",
+                address: "202.80.104.216",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "愛麗西亞"
+            },
+            {
+                icon: "Alicia.png",
+                english: "Alicia",
+                name: "Ch. VIP2",
+                address: "202.80.104.216",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "愛麗西亞"
+            },
+            {
+                icon: "Alicia.png",
+                english: "Alicia",
+                name: "Ch. VIP3",
+                address: "202.80.104.216",
+                port: "8787",
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -8425,6 +8557,39 @@ var servers = {
             {
                 icon: "Orchid_TW.png",
                 english: "Orchid",
+                name: "Ch. VIP1",
+                address: "202.80.104.211",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "殺人鯨"
+            },
+            {
+                icon: "Orchid_TW.png",
+                english: "Orchid",
+                name: "Ch. VIP2",
+                address: "202.80.104.211",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "殺人鯨"
+            },
+            {
+                icon: "Orchid_TW.png",
+                english: "Orchid",
+                name: "Ch. VIP3",
+                address: "202.80.104.211",
+                port: "8787",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "殺人鯨"
+            },
+            {
+                icon: "Orchid_TW.png",
+                english: "Orchid",
                 name: "購物商城",
                 address: "202.80.104.45",
                 port: "8686",
@@ -8465,7 +8630,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8475,7 +8640,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8485,7 +8650,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8495,7 +8660,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8505,7 +8670,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8515,7 +8680,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8525,7 +8690,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8535,7 +8700,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8545,7 +8710,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8555,7 +8720,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8565,7 +8730,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉ㄒ"
             },
             {
                 icon: "Reboot.png",
@@ -8575,7 +8740,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8585,7 +8750,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8595,7 +8760,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8605,7 +8770,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8615,7 +8780,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8625,7 +8790,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8635,7 +8800,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8645,7 +8810,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8655,7 +8820,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8665,7 +8830,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8675,7 +8840,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8685,7 +8850,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8695,7 +8860,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8705,7 +8870,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8715,7 +8880,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8725,7 +8890,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8735,7 +8900,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8745,7 +8910,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8755,7 +8920,37 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch. VIP1",
+                address: "202.80.104.214",
+                port: "8585",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "米特拉"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch. VIP2",
+                address: "202.80.104.214",
+                port: "8686",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "米特拉"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch. VIP3",
+                address: "202.80.104.214",
+                port: "8787",
+                interval: 1500,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8765,7 +8960,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             },
             {
                 icon: "Reboot.png",
@@ -8775,7 +8970,7 @@ var servers = {
                 interval: 1500,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Reboot"
+                rel: "米特拉"
             }
         ]
     },
